@@ -1,6 +1,6 @@
 {
   "name": "rn-pdf-reader-js",
-  "version": "4.1.1",
+  "version": "4.1.3",
   "description": "PDF reader for Expo",
   "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcarpentier/rn-pdf-reader-js.git"
+    "url": "git+https://github.com/stratoss/rn-pdf-reader-js.git"
   },
   "peerDependencies": {
     "expo": ">= 33.0.x < 42.0.x",
